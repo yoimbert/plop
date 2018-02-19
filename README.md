@@ -40,7 +40,7 @@ class XmlToJson {
 
 include 'XmlToJson.php';
 
-print XmlToJson::Parse("http://acco17.com/automation/XML_SRC/ag170960.xml");
+print XmlToJson::Parse("http://your_url/XML_SRC/ag170960.xml" );
 
 ?>
 ```
