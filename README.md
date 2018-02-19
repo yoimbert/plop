@@ -47,4 +47,4 @@ print XmlToJson::Parse("http://your_url/XML_SRC/ag170960.xml" );
 
 <https://www.yoh.im>
 
-![Yoim logo](https://yoh.im/assets/img/vivaldi-logo.png "YOIM logo")
+![Yoim logo](https://yoh.im/assets/img/yoim.png "YOIM logo")
