@@ -1,0 +1,3499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annonceur code="ag170960">
+	<coordonnees>
+		        <nom>MAISONS ACCO</nom>
+		<raison_sociale>MAISONS ACCO</raison_sociale>
+		<adresse>
+			<voirie>110 route Nationale</voirie>
+			<code_postal>17220</code_postal>
+			<ville>LA JARNE</ville>
+			<pays>France</pays>
+		</adresse>
+		<telephone>05 46 01 50 50</telephone>
+		<fax></fax>
+		<email>contact@acco17.com</email>
+		<web>www.acco17.com/</web>
+		<siret>39420397000071</siret>
+		<logo>http://common.ubiflow.net/images/logos/170960.jpg?ts=1458725745</logo>
+        <lien_tarifs></lien_tarifs>
+	</coordonnees>
+	<annonces>
+			<annonce id="139080292">
+					<reference>180214-152658</reference>
+			<texte>Cette maison de 90 m&#178; saura vous s&#233;duire avec son bel espace de vie de 44 m&#178;, 3 chambres, salle de bains avec douche italienne et vasque et Wc.
+Un cellier, communiquant avec le garage et le jardin, compl&#232;te cet ensemble.
+Pour de plus amples renseignements contacter Martial au 0681071926</texte>
+			<date_saisie>14/02/2018</date_saisie>
+			<date_integration>14/02/2018 15:29:57</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier - St Jean D'Ang&#233;ly</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/139080292/photos/1.jpg?20180214152659</photo>
+				<photo>http://photos.ubiflow.net/170960/139080292/photos/2.jpg?20180214152659</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<date_disponibilite>14/02/2018</date_disponibilite>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>44</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17347</code_insee>
+				<code_postal_reel>17400</code_postal_reel>
+				<pays>France</pays>
+				<code_postal>17400</code_postal>
+				<ville_insee>17347</ville_insee>
+				<ville>Saint-Jean-d'Ang&#233;ly</ville>
+				<ville_reelle>17400</ville_reelle>
+				<latitude>45.944823</latitude>
+				<longitude>-0.517763</longitude>
+				<departement>17</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>1000</surface_terrain>
+				<modele_maison>Tourmaline 90</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>155000</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="139079842">
+					<reference>180214-152204</reference>
+			<texte>Cette maison en V de 88 m&#178; saura vous s&#233;duire. Elle poss&#232;de 3 chambres, une pi&#232;ce de vie de 41 m&#178;, une salle de bains, wc et un cellier communiquant avec le garage et le jardin. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+Pour de plus amples renseignements, demander Martial au 0681071926</texte>
+			<date_saisie>14/02/2018</date_saisie>
+			<date_integration>14/02/2018 15:25:31</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier - Rochefort</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/139079842/photos/1.jpg?20180214152205</photo>
+				<photo>http://photos.ubiflow.net/170960/139079842/photos/2.jpg?20180214152205</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<avec_pente>N</avec_pente>
+				<date_disponibilite>14/02/2018</date_disponibilite>
+				<surface_habitable>88</surface_habitable>
+				<surface_utile>88</surface_utile>
+				<surface_sejour>41</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17299</code_insee>
+				<code_postal_reel>17300</code_postal_reel>
+				<pays>France</pays>
+				<code_postal>17300</code_postal>
+				<ville_insee>17299</ville_insee>
+				<ville>Rochefort</ville>
+				<ville_reelle>17300</ville_reelle>
+				<latitude>45.936698</latitude>
+				<longitude>-0.961697</longitude>
+				<departement>17</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>390</surface_terrain>
+				<modele_maison>Vivianite85</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>194000</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="138950440">
+					<reference>180213-181038</reference>
+			<texte>Cette maison en V de 88 m&#178; saura vous s&#233;duire. Elle poss&#232;de 3 chambres, une pi&#232;ce de vie de 41 m&#178;, une salle de bains, wc et un cellier communiquant avec le garage et le jardin. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+A saisir, dernier lot dans lotissement &#224; Niort, bien situ&#233;, terrain de 479m&#178;.
+ Pour tous renseignements contacter Maryline Damon au 07.77.88.33.88</texte>
+			<date_saisie>13/02/2018</date_saisie>
+			<date_integration>13/02/2018 18:23:52</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/138950440/photos/1.jpg?20180213182352</photo>
+				<photo>http://photos.ubiflow.net/170960/138950440/photos/2.jpg?20180213182352</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>88</surface_habitable>
+				<surface_utile>88</surface_utile>
+				<largeur_terrain>15.95</largeur_terrain>
+				<surface_sejour>41</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17193</code_insee>
+				<pays>France</pays>
+				<code_postal>79000</code_postal>
+				<departement>79</departement>
+				<ville_insee>17193</ville_insee>
+				<ville>Niort</ville>
+				<latitude>46.128164</latitude>
+				<longitude>-1.072562</longitude>
+				<lotissement>O</lotissement>
+				<surface_terrain>479</surface_terrain>
+				<prix_terrain>55564</prix_terrain>
+				<modele_maison>Vivianite85</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>180564</prix>
+			</prestation>
+		</annonce>
+		<annonce id="136264386">
+					<reference>180123-154303</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+A 20 mn de Niort, terrain de 706 m&#178; en lotissement proche commerces. Pour tous renseignements contactez le 07.77.88.33.88 ou &#224; l'agence 151 Rue de l'A&#233;rodrome &#224; Niort.</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>08/02/2018 18:24:31</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136264386/photos/1.jpg?20180123154327</photo>
+				<photo>http://photos.ubiflow.net/170960/136264386/photos/2.jpg?20180123154327</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<avec_stationnement>O</avec_stationnement>
+				<code_insee >79100</code_insee>
+				<pays>France</pays>
+				<code_postal>79510</code_postal>
+				<ville_insee>79100</ville_insee>
+				<ville>Coulon</ville>
+				<latitude>46.3321145</latitude>
+				<longitude>-0.6003892</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>706</surface_terrain>
+				<prix_terrain>55774</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>141774</prix>
+				<prix_maison_seule>86000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136272495">
+					<reference>180123-164303</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Beau terrain viabilis&#233; de 940 m&#178;, plat, aux portes du village avec commerces et &#233;coles, &#224; 30mn de La Rochelle
+Pour tous renseignements contactez Maryline DAMON au 07.77.88.33.88 ou &#224; l'agence 151 Rue de l'A&#233;rodrome &#224; Niort.</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>08/02/2018 18:23:50</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136272495/photos/1.jpg?20180123164333</photo>
+				<photo>http://photos.ubiflow.net/170960/136272495/photos/2.jpg?20180123164333</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85132</code_insee>
+				<pays>France</pays>
+				<code_postal>85420</code_postal>
+				<ville_insee>85132</ville_insee>
+				<ville>MAILLE</ville>
+				<latitude>46.342709</latitude>
+				<longitude>-0.792044</longitude>
+				<departement>85</departement>
+				<surface_terrain>940</surface_terrain>
+				<prix_terrain>31000</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>128500</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136273678">
+					<reference>180123-170441</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+Nouveau lotissement, aux portes de Niort, proche commerces, une parcelle de terrain d'une superficie de 311 m&#178;. Pour tous renseignements contacter Maryline Damon au 07.77.88.33.88
+ou &#224; l'agence 151 Rue de l'A&#233;rodrome &#224; Niort.</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>08/02/2018 18:22:28</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136273678/photos/1.jpg?20180123170500</photo>
+				<photo>http://photos.ubiflow.net/170960/136273678/photos/2.jpg?20180123170500</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<avec_stationnement>O</avec_stationnement>
+				<code_insee >79003</code_insee>
+				<pays>France</pays>
+				<code_postal>79230</code_postal>
+				<ville_insee>79003</ville_insee>
+				<ville>Aiffres</ville>
+				<latitude>46.286448</latitude>
+				<longitude>-0.416943</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>311</surface_terrain>
+				<prix_terrain>40500</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>126500</prix>
+				<prix_maison_seule>86000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="138038989">
+					<reference>180206-162721</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+A saisir, dernier lot dans lotissement &#224; Niort, bien situ&#233;, terrain de 479m&#178;.
+ Pour tous renseignements contacter Maryline Damon au 07.77.88.33.88 ou &#224; l'agence 151 rue de l'A&#233;rodrome &#224; Niort</texte>
+			<date_saisie>06/02/2018</date_saisie>
+			<date_integration>08/02/2018 18:20:45</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/138038989/photos/1.jpg?20180206163914</photo>
+				<photo>http://photos.ubiflow.net/170960/138038989/photos/2.jpg?20180206163914</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<largeur_terrain>15.95</largeur_terrain>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79191</code_insee>
+				<pays>France</pays>
+				<code_postal>79000</code_postal>
+				<ville_insee>79191</ville_insee>
+				<ville>Niort</ville>
+				<latitude>46.323716</latitude>
+				<longitude>-0.464777</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>479</surface_terrain>
+				<prix_terrain>55564</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>153064</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="138163348">
+					<reference>180207-094155</reference>
+			<texte>Cette maison de 90 m&#178; saura vous s&#233;duire avec son bel espace de vie de 44 m&#178;, 3 chambres, salle de bains avec douche italienne et vasque et Wc.
+Un cellier, communiquant avec le garage et le jardin, compl&#232;te cet ensemble.
+Pour de plus amples renseignements contacter Martial au 0681071926</texte>
+			<date_saisie>07/02/2018</date_saisie>
+			<date_integration>07/02/2018 10:01:58</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Maison Echilais</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/138163348/photos/1.jpg?20180207094155</photo>
+				<photo>http://photos.ubiflow.net/170960/138163348/photos/2.jpg?20180207094155</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<avec_pente>N</avec_pente>
+				<date_disponibilite>07/02/2018</date_disponibilite>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>44</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17146</code_insee>
+				<pays>France</pays>
+				<code_postal>17620</code_postal>
+				<ville_insee>17146</ville_insee>
+				<ville>Echilais</ville>
+				<latitude>45.899687</latitude>
+				<longitude>-0.950687</longitude>
+				<departement>17</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>360</surface_terrain>
+				<modele_maison>Tourmaline 90</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>186000</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="138168211">
+					<reference>180207-095542</reference>
+			<texte>Cette maison en L de 90 m&#178; saura vous s&#233;duire avec son grand espace de vie de 43 m&#178;, ses 3 chambres avec emplacements pour placard et sa salle de bains avec douche italienne et vasque. 
+Un cellier communiquant avec le garage compl&#232;te cet ensemble. 
+Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+Pour de plus amples renseignements contacter Martial au 0681071926</texte>
+			<date_saisie>07/02/2018</date_saisie>
+			<date_integration>07/02/2018 09:57:50</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Maison Saint Nazaire sur Charente</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/138168211/photos/1.jpg?20180207095543</photo>
+				<photo>http://photos.ubiflow.net/170960/138168211/photos/2.jpg?20180207095543</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<date_disponibilite>07/02/2018</date_disponibilite>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17375</code_insee>
+				<pays>France</pays>
+				<code_postal>17780</code_postal>
+				<ville_insee>17375</ville_insee>
+				<ville>Saint-Nazaire-sur-Charente</ville>
+				<latitude>45.9367189</latitude>
+				<longitude>-1.05194</longitude>
+				<departement>17</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>423</surface_terrain>
+				<modele_maison>Rubis 91</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>167000</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="138167662">
+					<reference>180207-095205</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Pour de plus amples renseignements contacter Martial au 0681071926</texte>
+			<date_saisie>07/02/2018</date_saisie>
+			<date_integration>07/02/2018 09:54:26</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Maison Port des Barques</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/138167662/photos/1.jpg?20180207095205</photo>
+				<photo>http://photos.ubiflow.net/170960/138167662/photos/2.jpg?20180207095205</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<date_disponibilite>07/02/2018</date_disponibilite>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17484</code_insee>
+				<pays>France</pays>
+				<code_postal>17730</code_postal>
+				<ville_insee>17484</ville_insee>
+				<ville>Port-des-Barques</ville>
+				<latitude>45.9417813</latitude>
+				<longitude>-1.0694417</longitude>
+				<departement>17</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>333</surface_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>147500</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="138164857">
+					<reference>180207-094801</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Pour de plus amples renseignements contacter Martial au 0681071926</texte>
+			<date_saisie>07/02/2018</date_saisie>
+			<date_integration>07/02/2018 09:50:56</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Maison Tonnay Charente</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/138164857/photos/1.jpg?20180207094802</photo>
+				<photo>http://photos.ubiflow.net/170960/138164857/photos/2.jpg?20180207094802</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<avec_pente>N</avec_pente>
+				<date_disponibilite>07/02/2018</date_disponibilite>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17449</code_insee>
+				<pays>France</pays>
+				<code_postal>17430</code_postal>
+				<ville_insee>17449</ville_insee>
+				<ville>Tonnay-Charente</ville>
+				<latitude>45.943621</latitude>
+				<longitude>-0.891574</longitude>
+				<departement>17</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>430</surface_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>147500</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="137869105">
+					<reference>180205-115512</reference>
+			<texte>Maison de 79 m&#178;, 3 chambres, avec un agr&#233;able espace de vie traversant de 38 m&#178;, une salle de bains avec vasque et douche italienne et un garage de 15 m&#178;.
+Pour plus de renseignements contacter Martial au 0681071926</texte>
+			<date_saisie>05/02/2018</date_saisie>
+			<date_integration>05/02/2018 11:58:53</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/137869105/photos/1.jpg?20180205115512</photo>
+				<photo>http://photos.ubiflow.net/170960/137869105/photos/2.jpg?20180205115512</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<surface_habitable>79</surface_habitable>
+				<surface_utile>79</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17385</code_insee>
+				<pays>France</pays>
+				<code_postal>17310</code_postal>
+				<ville_insee>17385</ville_insee>
+				<ville>Saint-Pierre-d'Ol&#233;ron</ville>
+				<latitude>45.942759</latitude>
+				<longitude>-1.307189</longitude>
+				<departement>17</departement>
+				<modele_maison>Opale 80</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>209000</prix>
+			</prestation>
+		</annonce>
+		<annonce id="137866975">
+					<reference>180205-114432</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Pour plus de renseignements contacter Martial 0681071926</texte>
+			<date_saisie>05/02/2018</date_saisie>
+			<date_integration>05/02/2018 11:48:40</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Maison 83m&#178; + terrain</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/137866975/photos/1.jpg?20180205114433</photo>
+				<photo>http://photos.ubiflow.net/170960/137866975/photos/2.jpg?20180205114433</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<garage>O</garage>
+				<date_disponibilite>05/02/2018</date_disponibilite>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17197</code_insee>
+				<pays>France</pays>
+				<code_postal>17500</code_postal>
+				<ville_insee>17197</ville_insee>
+				<ville>Jonzac</ville>
+				<latitude>45.445368</latitude>
+				<longitude>-0.431058</longitude>
+				<departement>17</departement>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>135000</prix>
+				<disponible_immediatement>O</disponible_immediatement>
+			</prestation>
+		</annonce>
+		<annonce id="136415812">
+					<reference>180124-145249</reference>
+			<texte>Maison de 79 m&#178;, 3 chambres, avec un agr&#233;able espace de vie traversant de 38 m&#178;, une salle de bains avec vasque et douche italienne et un garage de 15 m&#178;.
+Terrain avec une fa&#231;ade de 20 m&#232;tres, situ&#233; dans un quartier calme sur la commune de Saint-Georges-des-Coteaux quartier lyc&#233;e Georges Desclaude (&#224; 3 minutes d'hyper U).
+Pour tous renseignements, vous pouvez contacter le 07.77.88.33.86;</texte>
+			<date_saisie>24/01/2018</date_saisie>
+			<date_integration>24/01/2018 15:08:29</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136415812/photos/1.jpg?20180124145309</photo>
+				<photo>http://photos.ubiflow.net/170960/136415812/photos/2.jpg?20180124145309</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<avec_vis_a_vis>N</avec_vis_a_vis>
+				<surface_habitable>79</surface_habitable>
+				<surface_utile>79</surface_utile>
+				<largeur_terrain>20</largeur_terrain>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17336</code_insee>
+				<pays>France</pays>
+				<code_postal>17810</code_postal>
+				<ville_insee>17336</ville_insee>
+				<ville>Saint-Georges-des-Coteaux</ville>
+				<latitude>45.763733</latitude>
+				<longitude>-0.711472</longitude>
+				<departement>17</departement>
+				<surface_terrain>510</surface_terrain>
+				<prix_terrain>42000</prix_terrain>
+				<modele_maison>Opale 80</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>147000</prix>
+				<prix_maison_seule>105000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136273753">
+					<reference>180123-170651</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Nouveau lotissement, aux portes de Niort, proche commerces, une parcelle de terrain d'une superficie de 311 m&#178;. Pour tous renseignements contactez le 07.77.88.33.88</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>23/01/2018 17:26:27</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136273753/photos/1.jpg?20180123172554</photo>
+				<photo>http://photos.ubiflow.net/170960/136273753/photos/2.jpg?20180123172554</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79003</code_insee>
+				<pays>France</pays>
+				<code_postal>79230</code_postal>
+				<ville_insee>79003</ville_insee>
+				<ville>Aiffres</ville>
+				<latitude>46.286448</latitude>
+				<longitude>-0.416943</longitude>
+				<departement>79</departement>
+				<surface_terrain>311</surface_terrain>
+				<prix_terrain>40500</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>138000</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136272780">
+					<reference>180123-165240</reference>
+			<texte>Gr&#226;ce &#224; son architecture cette maison de 95 vous permet de profiter au maximum de des possibilit&#233;s de votre terrain, de plus la partie jour est bien dissoci&#233;e de la partie nuit. Cette maison poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 43 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une 2 grandes baies vitr&#233;es. C&#244;t&#233; nuit vous aurez 3 chambres avec emplacements pour les placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un cellier, attenant au garage de 17 m&#178;, vient compl&#233;ter cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant
+Belle opportunit&#233;, parcelle de 2000 m&#178; vue d&#233;gag&#233;e, &#224; 1km des commerces. Non viabilis&#233;, tout &#224; l'&#233;gout. Chemin d'acc&#232;s pour acc&#233;der &#224; la parcelle.</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>23/01/2018 16:53:39</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136272780/photos/1.jpg?20180123165300</photo>
+				<photo>http://photos.ubiflow.net/170960/136272780/photos/2.jpg?20180123165300</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85092</code_insee>
+				<pays>France</pays>
+				<code_postal>85200</code_postal>
+				<ville_insee>85092</ville_insee>
+				<ville>Fontenay-le-Comte</ville>
+				<latitude>46.465972</latitude>
+				<longitude>-0.8065</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>2000</surface_terrain>
+				<prix_terrain>38000</prix_terrain>
+				<modele_maison>Saphir 95</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>169000</prix>
+				<prix_maison_seule>131000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135829057">
+					<reference>180119-153905</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Faites vos r&#233;servations d&#232;s maintenant. Terrain en lotissement de 401 m&#178; &#224; proximit&#233; des &#233;coles, et commerces, &#224; 15mn de Niort et 10mn de la zone commerciale de La Mude.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>23/01/2018 16:41:07</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135829057/photos/1.jpg?20180123164039</photo>
+				<photo>http://photos.ubiflow.net/170960/135829057/photos/2.jpg?20180123164039</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79298</code_insee>
+				<pays>France</pays>
+				<code_postal>79270</code_postal>
+				<ville_insee>79298</ville_insee>
+				<ville>Saint-Symphorien</ville>
+				<latitude>46.263734</latitude>
+				<longitude>-0.490404</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>401</surface_terrain>
+				<prix_terrain>37700</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>135200</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136271877">
+					<reference>180123-163348</reference>
+			<texte>Cette maison de 90 m&#178; saura vous s&#233;duire avec son bel espace de vie de 44 m&#178;, 3 chambres, salle de bains avec douche italienne et vasque et Wc.
+Un cellier, communiquant avec le garage et le jardin, compl&#232;te cet ensemble.
+A 10mn de la zone commerciale de La Mude,  14 mn du centre ville de Niort, terrain en lotissement bien situ&#233; d'une superficie de 401 m&#178;. Pour tous renseignements contactez le 07.77.88.33.88</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>23/01/2018 16:34:42</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136271877/photos/1.jpg?20180123163416</photo>
+				<photo>http://photos.ubiflow.net/170960/136271877/photos/2.jpg?20180123163416</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>44</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79298</code_insee>
+				<pays>France</pays>
+				<code_postal>79270</code_postal>
+				<ville_insee>79298</ville_insee>
+				<ville>Saint-Symphorien</ville>
+				<latitude>46.263734</latitude>
+				<longitude>-0.490404</longitude>
+				<departement>79</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>401</surface_terrain>
+				<prix_terrain>37500</prix_terrain>
+				<modele_maison>Tourmaline 90</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>162500</prix>
+				<prix_maison_seule>125000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136264356">
+					<reference>180123-154030</reference>
+			<texte>Cette maison de 90 m&#178; saura vous s&#233;duire avec son bel espace de vie de 44 m&#178;, 3 chambres, salle de bains avec douche italienne et vasque et Wc.
+Un cellier, communiquant avec le garage et le jardin, compl&#232;te cet ensemble.
+A proximit&#233; du centre, &#224; 10 mn de Niort, parcelle de 451 m&#178; en lotissement. Pour tous renseignements contactez le 07.77.88.33.88</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>23/01/2018 15:41:39</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136264356/photos/1.jpg?20180123154055</photo>
+				<photo>http://photos.ubiflow.net/170960/136264356/photos/2.jpg?20180123154055</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>44</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79100</code_insee>
+				<pays>France</pays>
+				<code_postal>79510</code_postal>
+				<ville_insee>79100</ville_insee>
+				<ville>Coulon</ville>
+				<latitude>46.3321145</latitude>
+				<longitude>-0.6003892</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>451</surface_terrain>
+				<prix_terrain>35629</prix_terrain>
+				<modele_maison>Tourmaline 90</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>160629</prix>
+				<prix_maison_seule>125000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="136263768">
+					<reference>180123-152443</reference>
+			<texte>Cette maison en L de 90 m&#178; saura vous s&#233;duire avec son grand espace de vie de 43 m&#178;, ses 3 chambres avec emplacements pour placard et sa salle de bains avec douche italienne et vasque. 
+Un cellier communiquant avec le garage compl&#232;te cet ensemble. 
+Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+Entre Fontenay et Sainte Hermine, terrain de 792 m&#178;, dans un petit village au calme.</texte>
+			<date_saisie>23/01/2018</date_saisie>
+			<date_integration>23/01/2018 15:25:18</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/136263768/photos/1.jpg?20180123152518</photo>
+				<photo>http://photos.ubiflow.net/170960/136263768/photos/2.jpg?20180123152518</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17193</code_insee>
+				<pays>France</pays>
+				<code_postal>85570</code_postal>
+				<departement>85</departement>
+				<ville_insee>17193</ville_insee>
+				<ville>Petosse</ville>
+				<latitude>46.128164</latitude>
+				<longitude>-1.072562</longitude>
+				<lotissement>O</lotissement>
+				<surface_terrain>792</surface_terrain>
+				<prix_terrain>20592</prix_terrain>
+				<modele_maison>Rubis 91</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>147592</prix>
+			</prestation>
+		</annonce>
+		<annonce id="135842815">
+					<reference>180119-165417</reference>
+			<texte>Gr&#226;ce &#224; son architecture cette maison de 95 vous permet de profiter au maximum de des possibilit&#233;s de votre terrain, de plus la partie jour est bien dissoci&#233;e de la partie nuit. Cette maison poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 43 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une 2 grandes baies vitr&#233;es. C&#244;t&#233; nuit vous aurez 3 chambres avec emplacements pour les placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un cellier, attenant au garage de 17 m&#178;, vient compl&#233;ter cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant
+Terrain priv&#233; de 990m&#178; proche des commerces et &#233;coles, viabilis&#233; eau, &#233;lectricit&#233;, t&#233;l&#233;phone tout &#224; l'&#233;gout.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:55:56</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135842815/photos/1.jpg?20180119165519</photo>
+				<photo>http://photos.ubiflow.net/170960/135842815/photos/2.jpg?20180119165519</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<certificat_urbanisme>O</certificat_urbanisme>
+				<constructible>O</constructible>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85020</code_insee>
+				<pays>France</pays>
+				<code_postal>85490</code_postal>
+				<ville_insee>85020</ville_insee>
+				<ville>Benet</ville>
+				<latitude>46.389691</latitude>
+				<longitude>-0.6015985</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>990</surface_terrain>
+				<prix_terrain>63000</prix_terrain>
+				<modele_maison>Saphir 95</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>194000</prix>
+				<prix_maison_seule>131000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135842209">
+					<reference>180119-164843</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+A saisir derni&#232;re parcelle, proche Leclerc et p&#244;le sant&#233;, terrain de 565m&#178; en lotissement.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:49:27</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135842209/photos/1.jpg?20180119164903</photo>
+				<photo>http://photos.ubiflow.net/170960/135842209/photos/2.jpg?20180119164904</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<avec_stationnement>O</avec_stationnement>
+				<code_insee >85092</code_insee>
+				<pays>France</pays>
+				<code_postal>85200</code_postal>
+				<ville_insee>85092</ville_insee>
+				<ville>Fontenay-le-Comte</ville>
+				<latitude>46.465972</latitude>
+				<longitude>-0.8065</longitude>
+				<departement>85</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>565</surface_terrain>
+				<prix_terrain>32000</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>118000</prix>
+				<prix_maison_seule>86000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135842065">
+					<reference>180119-164708</reference>
+			<texte>Maison de 79 m&#178;, 3 chambres, avec un agr&#233;able espace de vie traversant de 38 m&#178;, une salle de bains avec vasque et douche italienne et un garage de 15 m&#178;.
+NOUVEAU LOTISSEMENT proche &#233;coles et commerces.
+Faites vos r&#233;servations, terrain en lotissement aux portes de Niort, de 343 m&#178; bien orient&#233;.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:48:15</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135842065/photos/1.jpg?20180119164748</photo>
+				<photo>http://photos.ubiflow.net/170960/135842065/photos/2.jpg?20180119164748</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>79</surface_habitable>
+				<surface_utile>79</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79003</code_insee>
+				<pays>France</pays>
+				<code_postal>79230</code_postal>
+				<ville_insee>79003</ville_insee>
+				<ville>Aiffres</ville>
+				<latitude>46.286448</latitude>
+				<longitude>-0.416943</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<prix_terrain>43900</prix_terrain>
+				<modele_maison>Opale 80</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>134900</prix>
+				<prix_maison_seule>91000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135841522">
+					<reference>180119-164315</reference>
+			<texte>Cette maison en V de 88 m&#178; saura vous s&#233;duire. Elle poss&#232;de 3 chambres, une pi&#232;ce de vie de 41 m&#178;, une salle de bains, wc et un cellier communiquant avec le garage et le jardin. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+A 5 mn de Fontenay Le Comte, joli terrain plat de 750m&#178; plein centre de Pissotte, &#224; viabiliser. Tout &#224; l'&#233;gout.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:44:04</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135841522/photos/1.jpg?20180119164340</photo>
+				<photo>http://photos.ubiflow.net/170960/135841522/photos/2.jpg?20180119164340</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>88</surface_habitable>
+				<surface_utile>88</surface_utile>
+				<surface_sejour>41</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85176</code_insee>
+				<pays>France</pays>
+				<code_postal>85200</code_postal>
+				<ville_insee>85176</ville_insee>
+				<ville>Pissotte</ville>
+				<latitude>46.496708</latitude>
+				<longitude>-0.8079809</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>750</surface_terrain>
+				<prix_terrain>26000</prix_terrain>
+				<modele_maison>Vivianite85</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>151000</prix>
+				<prix_maison_seule>125000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135840256">
+					<reference>180119-163926</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+A 15mn de Niort, terrain en lotissement au coeur du village, bien situ&#233;, de 419m&#178;.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:40:17</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135840256/photos/1.jpg?20180119163951</photo>
+				<photo>http://photos.ubiflow.net/170960/135840256/photos/2.jpg?20180119163951</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<avec_stationnement>O</avec_stationnement>
+				<code_insee >79308</code_insee>
+				<pays>France</pays>
+				<code_postal>79000</code_postal>
+				<ville_insee>79308</ville_insee>
+				<ville>Sciecq</ville>
+				<latitude>46.373185</latitude>
+				<longitude>-0.470266</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<prix_terrain>34400</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>120400</prix>
+				<prix_maison_seule>86000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135838738">
+					<reference>180119-163303</reference>
+			<texte>Belle maison de 100 m&#178; avec 55 m&#178; de pi&#232;ce de vie, 3 chambres, salle de bains, wc et garage. Chauffage par pompe &#224; chaleur avec plancher chauffant.
+A 30 mn de Niort, terrain hors lotissement 1326 m&#178; plat, commerces, &#233;coles &#224; 5 mn, &#224; viabiliser.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:33:53</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135838738/photos/1.jpg?20180119163321</photo>
+				<photo>http://photos.ubiflow.net/170960/135838738/photos/2.jpg?20180119163321</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<certificat_urbanisme>O</certificat_urbanisme>
+				<constructible>O</constructible>
+				<surface_habitable>100</surface_habitable>
+				<surface_utile>100</surface_utile>
+				<surface_sejour>55</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85244</code_insee>
+				<pays>France</pays>
+				<code_postal>85200</code_postal>
+				<ville_insee>85244</ville_insee>
+				<ville>Saint-Martin-de-Fraigneau</ville>
+				<latitude>46.434759</latitude>
+				<longitude>-0.744905</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>1326</surface_terrain>
+				<prix_terrain>29000</prix_terrain>
+				<modele_maison>Ambre 100</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>166000</prix>
+				<prix_maison_seule>137000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135835993">
+					<reference>180119-162805</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+Proche centre ville, commerces &#233;coles et coll&#232;ge, beau terrain 
+de 849 m&#178; , viabilis&#233; eau, &#233;lectricit&#233;, tout &#224; l'&#233;gout, au calme.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:30:44</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135835993/photos/1.jpg?20180119163012</photo>
+				<photo>http://photos.ubiflow.net/170960/135835993/photos/2.jpg?20180119163012</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<avec_stationnement>O</avec_stationnement>
+				<code_insee >85227</code_insee>
+				<pays>France</pays>
+				<code_postal>85240</code_postal>
+				<ville_insee>85227</ville_insee>
+				<ville>Saint-Hilaire-des-Loges</ville>
+				<latitude>46.471514</latitude>
+				<longitude>-0.664775</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<prix_terrain>30000</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>116000</prix>
+				<prix_maison_seule>86000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135834802">
+					<reference>180119-162453</reference>
+			<texte>Cette maison de 90 m&#178; saura vous s&#233;duire avec son bel espace de vie de 44 m&#178;, 3 chambres, salle de bains avec douche italienne et vasque et Wc.
+Un cellier, communiquant avec le garage et le jardin, compl&#232;te cet ensemble.
+A 5 mn de Fontenay Le Comte, joli terrain plat de 750m&#178; plein centre de Pissotte, &#224; viabiliser. Tout &#224; l'&#233;gout.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:25:46</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135834802/photos/1.jpg?20180119162511</photo>
+				<photo>http://photos.ubiflow.net/170960/135834802/photos/2.jpg?20180119162511</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>44</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85176</code_insee>
+				<pays>France</pays>
+				<code_postal>85200</code_postal>
+				<ville_insee>85176</ville_insee>
+				<ville>Pissotte</ville>
+				<latitude>46.496708</latitude>
+				<longitude>-0.8079809</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>750</surface_terrain>
+				<prix_terrain>26000</prix_terrain>
+				<modele_maison>Tourmaline 90</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>151000</prix>
+				<prix_maison_seule>125000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135832249">
+					<reference>180119-161231</reference>
+			<texte>Cette maison en L de 90 m&#178; saura vous s&#233;duire avec son grand espace de vie de 43 m&#178;, ses 3 chambres avec emplacements pour placard et sa salle de bains avec douche italienne et vasque. 
+Un cellier communiquant avec le garage compl&#232;te cet ensemble. 
+Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+A 5 mn de Benet, beau terrain de 1500m&#178;, plat, non viabilis&#233;</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:23:38</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135832249/photos/1.jpg?20180119162319</photo>
+				<photo>http://photos.ubiflow.net/170960/135832249/photos/2.jpg?20180119162319</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<certificat_urbanisme>O</certificat_urbanisme>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85020</code_insee>
+				<pays>France</pays>
+				<code_postal>85490</code_postal>
+				<ville_insee>85020</ville_insee>
+				<ville>Benet</ville>
+				<latitude>46.389691</latitude>
+				<longitude>-0.6015985</longitude>
+				<departement>85</departement>
+				<surface_terrain>1500</surface_terrain>
+				<prix_terrain>33000</prix_terrain>
+				<modele_maison>Rubis 91</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>160000</prix>
+				<prix_maison_seule>127000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135833365">
+					<reference>180119-161436</reference>
+			<texte>Gr&#226;ce &#224; son architecture cette maison de 95 vous permet de profiter au maximum de des possibilit&#233;s de votre terrain, de plus la partie jour est bien dissoci&#233;e de la partie nuit. Cette maison poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 43 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une 2 grandes baies vitr&#233;es. C&#244;t&#233; nuit vous aurez 3 chambres avec emplacements pour les placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un cellier, attenant au garage de 17 m&#178;, vient compl&#233;ter cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant
+A saisir !! Entre Niort et Fontenay Le Comte, terrain constructible, plat en centre ville, commerces et &#233;coles &#224; proximit&#233;, viabilisation sur rue, tout &#224; l'&#233;gout,  d'une superficie de 1000m&#178; environ.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:15:28</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135833365/photos/1.jpg?20180119161457</photo>
+				<photo>http://photos.ubiflow.net/170960/135833365/photos/2.jpg?20180119161457</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85168</code_insee>
+				<pays>France</pays>
+				<code_postal>85420</code_postal>
+				<ville_insee>85168</ville_insee>
+				<ville>Oulmes</ville>
+				<latitude>46.398936</latitude>
+				<longitude>-0.66242</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>1000</surface_terrain>
+				<prix_terrain>33000</prix_terrain>
+				<modele_maison>Saphir 95</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>164000</prix>
+				<prix_maison_seule>131000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135831103">
+					<reference>180119-160936</reference>
+			<texte>Gr&#226;ce &#224; son architecture cette maison de 95 vous permet de profiter au maximum de des possibilit&#233;s de votre terrain, de plus la partie jour est bien dissoci&#233;e de la partie nuit. Cette maison poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 43 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une 2 grandes baies vitr&#233;es. C&#244;t&#233; nuit vous aurez 3 chambres avec emplacements pour les placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un cellier, attenant au garage de 17 m&#178;, vient compl&#233;ter cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant
+Beau terrain viabilis&#233; de 940 m&#178;, plat, aux portes du village avec commerces et &#233;coles, &#224; 30mn de La Rochelle</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:10:14</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135831103/photos/1.jpg?20180119160951</photo>
+				<photo>http://photos.ubiflow.net/170960/135831103/photos/2.jpg?20180119160951</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85132</code_insee>
+				<pays>France</pays>
+				<code_postal>85420</code_postal>
+				<ville_insee>85132</ville_insee>
+				<ville>MAILLE</ville>
+				<latitude>46.342709</latitude>
+				<longitude>-0.792044</longitude>
+				<departement>85</departement>
+				<surface_terrain>940</surface_terrain>
+				<prix_terrain>31000</prix_terrain>
+				<modele_maison>Saphir 95</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>162000</prix>
+				<prix_maison_seule>131000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135829957">
+					<reference>180119-160459</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Terrain hors lotissement plat de 628m&#178; viabilis&#233;, aux portes de Benet.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:05:54</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135829957/photos/1.jpg?20180119160521</photo>
+				<photo>http://photos.ubiflow.net/170960/135829957/photos/2.jpg?20180119160521</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<certificat_urbanisme>O</certificat_urbanisme>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79100</code_insee>
+				<pays>France</pays>
+				<code_postal>79510</code_postal>
+				<ville_insee>79100</ville_insee>
+				<ville>Coulon</ville>
+				<latitude>46.3321145</latitude>
+				<longitude>-0.6003892</longitude>
+				<departement>79</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>628</surface_terrain>
+				<prix_terrain>33000</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>130500</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135829873">
+					<reference>180119-160058</reference>
+			<texte>Gr&#226;ce &#224; son architecture cette maison de 95 vous permet de profiter au maximum de des possibilit&#233;s de votre terrain, de plus la partie jour est bien dissoci&#233;e de la partie nuit. Cette maison poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 43 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une 2 grandes baies vitr&#233;es. C&#244;t&#233; nuit vous aurez 3 chambres avec emplacements pour les placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un cellier, attenant au garage de 17 m&#178;, vient compl&#233;ter cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant
+Terrain de 544m&#178; plat &#224; viabiliser, eau, &#233;lectricit&#233;, et tout &#224; l'&#233;gout sur la rue. Proche du centre.
+Belle exposition au calme</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 16:02:35</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135829873/photos/1.jpg?20180119160211</photo>
+				<photo>http://photos.ubiflow.net/170960/135829873/photos/2.jpg?20180119160211</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >85020</code_insee>
+				<pays>France</pays>
+				<code_postal>85490</code_postal>
+				<ville_insee>85020</ville_insee>
+				<ville>Benet</ville>
+				<latitude>46.389691</latitude>
+				<longitude>-0.6015985</longitude>
+				<departement>85</departement>
+				<lotissement>N</lotissement>
+				<prix_terrain>29000</prix_terrain>
+				<modele_maison>Saphir 95</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>160000</prix>
+				<prix_maison_seule>131000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135829807">
+					<reference>180119-155802</reference>
+			<texte>Cette maison en L de 90 m&#178; saura vous s&#233;duire avec son grand espace de vie de 43 m&#178;, ses 3 chambres avec emplacements pour placard et sa salle de bains avec douche italienne et vasque. 
+Un cellier communiquant avec le garage compl&#232;te cet ensemble. 
+Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+NOUVEAU LOTISSEMENT proche &#233;coles et commerces.
+Faites vos r&#233;servations, terrain en lotissement aux portes de Niort, de 343 m&#178; bien orient&#233;.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:59:21</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135829807/photos/1.jpg?20180119155842</photo>
+				<photo>http://photos.ubiflow.net/170960/135829807/photos/2.jpg?20180119155842</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79003</code_insee>
+				<pays>France</pays>
+				<code_postal>79230</code_postal>
+				<ville_insee>79003</ville_insee>
+				<ville>Aiffres</ville>
+				<latitude>46.286448</latitude>
+				<longitude>-0.416943</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<prix_terrain>43900</prix_terrain>
+				<modele_maison>Rubis 91</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>170900</prix>
+				<prix_maison_seule>127000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135829690">
+					<reference>180119-155325</reference>
+			<texte>Cette maison en L de 95 m&#178; saura vous s&#233;duire avec son grand espace de vie de 45 m&#178;, ses 3 chambres avec emplacements pour placards, sa salle de bains avec douche italienne et vasque. Un cellier et un garage compl&#232;tent cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+A SAISIR !!
+Beau terrain de 555 m&#178;, frais de notaire offert!!!
+A 20 mn de Niort, en lotissement.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:55:18</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135829690/photos/1.jpg?20180119155454</photo>
+				<photo>http://photos.ubiflow.net/170960/135829690/photos/2.jpg?20180119155454</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<largeur_terrain>20.13</largeur_terrain>
+				<surface_sejour>45</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79031</code_insee>
+				<pays>France</pays>
+				<code_postal>79360</code_postal>
+				<ville_insee>79031</ville_insee>
+				<ville>Beauvoir-sur-Niort</ville>
+				<latitude>46.18005</latitude>
+				<longitude>-0.474637</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<surface_terrain>555</surface_terrain>
+				<prix_terrain>37000</prix_terrain>
+				<modele_maison>ONYX 95</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>167000</prix>
+				<prix_maison_seule>130000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135829249">
+					<reference>180119-154326</reference>
+			<texte>Cette maison en L de 90 m&#178; saura vous s&#233;duire avec son grand espace de vie de 43 m&#178;, ses 3 chambres avec emplacements pour placard et sa salle de bains avec douche italienne et vasque. 
+Un cellier communiquant avec le garage compl&#232;te cet ensemble. 
+Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+Faites vos r&#233;servations d&#232;s maintenant. Terrain en lotissement de 401 m&#178; &#224; proximit&#233; des &#233;coles, et commerces, &#224; 15mn de Niort et 10mn de la zone commerciale de La Mude.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:44:53</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135829249/photos/1.jpg?20180119154414</photo>
+				<photo>http://photos.ubiflow.net/170960/135829249/photos/2.jpg?20180119154414</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>90</surface_habitable>
+				<surface_utile>90</surface_utile>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79298</code_insee>
+				<pays>France</pays>
+				<code_postal>79270</code_postal>
+				<ville_insee>79298</ville_insee>
+				<ville>Saint-Symphorien</ville>
+				<latitude>46.263734</latitude>
+				<longitude>-0.490404</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<modele_maison>Rubis 91</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>127000</prix>
+			</prestation>
+		</annonce>
+		<annonce id="135828766">
+					<reference>180119-153409</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+Dernier lot!!
+&#224; 5 mn de la zone Mend&#233;s France, &#224; proximit&#233; du centre ville de La Cr&#232;che, terrain de 255m&#178; bien orient&#233; en lotissement.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:37:08</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135828766/photos/1.jpg?20180119153653</photo>
+				<photo>http://photos.ubiflow.net/170960/135828766/photos/2.jpg?20180119153653</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<avec_stationnement>O</avec_stationnement>
+				<code_insee >79048</code_insee>
+				<pays>France</pays>
+				<code_postal>79260</code_postal>
+				<ville_insee>79048</ville_insee>
+				<ville>La Cr&#232;che</ville>
+				<latitude>46.3630629</latitude>
+				<longitude>-0.298512</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<prix_terrain>27500</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>113500</prix>
+				<prix_maison_seule>86000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135828217">
+					<reference>180119-152851</reference>
+			<texte>Belle maison de 100 m&#178; avec 55 m&#178; de pi&#232;ce de vie, 3 chambres, salle de bains, wc et garage. Chauffage par pompe &#224; chaleur avec plancher chauffant.
+Terrain constructible de 1639 m&#178; hors lotissement, les branchements passent devant le terrain (eau,&#233;lectricit&#233; et tout &#224; l'&#233;gout) proche centre ville, plat .</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:31:31</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135828217/photos/1.jpg?20180119153058</photo>
+				<photo>http://photos.ubiflow.net/170960/135828217/photos/2.jpg?20180119153058</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>100</surface_habitable>
+				<surface_utile>100</surface_utile>
+				<surface_sejour>55</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79101</code_insee>
+				<pays>France</pays>
+				<code_postal>79160</code_postal>
+				<ville_insee>79101</ville_insee>
+				<ville>Coulonges-sur-l'Autize</ville>
+				<latitude>46.481744</latitude>
+				<longitude>-0.59951</longitude>
+				<departement>79</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>1639</surface_terrain>
+				<prix_terrain>19000</prix_terrain>
+				<modele_maison>Ambre 100</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>156000</prix>
+				<prix_maison_seule>137000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135828016">
+					<reference>180119-152625</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Dernier lot!!
+&#224; 5 mn de la zone Mend&#233;s France, &#224; proximit&#233; du centre ville de La Cr&#232;che, terrain de 255m&#178; bien orient&#233; en lotissement.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:27:32</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135828016/photos/1.jpg?20180119152642</photo>
+				<photo>http://photos.ubiflow.net/170960/135828016/photos/2.jpg?20180119152642</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79048</code_insee>
+				<pays>France</pays>
+				<code_postal>79260</code_postal>
+				<ville_insee>79048</ville_insee>
+				<ville>La Cr&#232;che</ville>
+				<latitude>46.3630629</latitude>
+				<longitude>-0.298512</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<prix_terrain>27500</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>125000</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="135827272">
+					<reference>180119-151921</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+A 15mn du centre ville de Niort, au coeur du village, cadre calme et verdoyant, terrain de 491m&#178; op&#233;rationnel, orient&#233; sud.</texte>
+			<date_saisie>19/01/2018</date_saisie>
+			<date_integration>19/01/2018 15:22:55</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/135827272/photos/1.jpg?20180119152234</photo>
+				<photo>http://photos.ubiflow.net/170960/135827272/photos/2.jpg?20180119152234</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >79308</code_insee>
+				<pays>France</pays>
+				<code_postal>79000</code_postal>
+				<ville_insee>79308</ville_insee>
+				<ville>Sciecq</ville>
+				<latitude>46.373185</latitude>
+				<longitude>-0.470266</longitude>
+				<departement>79</departement>
+				<lotissement>O</lotissement>
+				<belle_vue>O</belle_vue>
+				<surface_terrain>491</surface_terrain>
+				<prix_terrain>38000</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<rt_2012>O</rt_2012>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>135500</prix>
+				<prix_maison_seule>97500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="129985671">
+					<reference>171129-074810</reference>
+			<texte>A vendre maison commune Saint-Georges-des-Coteaux, limite Saintes (&#224; 3 minutes d'hyper U).
+Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.</texte>
+			<date_saisie>29/11/2017</date_saisie>
+			<date_integration>29/11/2017 08:08:01</date_integration>
+			<contact_a_afficher>GUILBAUD S&#233;verine</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>06 19 84 38 65</telephone_a_afficher>
+			<telephone_mobile_a_afficher>06 19 84 38 65</telephone_mobile_a_afficher>
+			<afficher_prix>O</afficher_prix>
+			<titre>Bien immobilier</titre>
+			<devise_iso_4217>EUR</devise_iso_4217>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/129985671/photos/1.jpg?20171129074813</photo>
+				<photo>http://photos.ubiflow.net/170960/129985671/photos/2.jpg?20171129074814</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>N</viabilise>
+				<garage>O</garage>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<largeur_terrain>20</largeur_terrain>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<avec_stationnement>O</avec_stationnement>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<code_insee >17336</code_insee>
+				<pays>France</pays>
+				<code_postal>17860</code_postal>
+				<ville_insee>17336</ville_insee>
+				<ville>SAINT GEORGES DES COTEAUX</ville>
+				<latitude>45.763733</latitude>
+				<longitude>-0.711472</longitude>
+				<departement>17</departement>
+				<lotissement>N</lotissement>
+				<surface_terrain>510</surface_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>162000</prix>
+			</prestation>
+		</annonce>
+		<annonce id="74655755">
+					<reference>160721-110142</reference>
+			<texte>Maison de 79 m&#178;, 3 chambres, avec un agr&#233;able espace de vie traversant de 38 m&#178;, une salle de bains avec vasque et douche italienne et un garage de 15 m&#178;.
+Beau terrain de 453 m&#178; expos&#233; plein Sud.</texte>
+			<date_saisie>21/07/2016</date_saisie>
+			<date_integration>21/07/2016 11:01:53</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/74655755/photos/1.jpg?20160721110142</photo>
+				<photo>http://photos.ubiflow.net/170960/74655755/photos/2.jpg?20160721110142</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>79</surface_habitable>
+				<surface_utile>79</surface_utile>
+				<largeur_terrain>13</largeur_terrain>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<exposition>sud</exposition>
+				<code_insee >17218</code_insee>
+				<pays>France</pays>
+				<code_postal>17230</code_postal>
+				<departement>17</departement>
+				<ville_insee>17218</ville_insee>
+				<ville>Marans</ville>
+				<prix_terrain>46600</prix_terrain>
+				<modele_maison>Opale 80</modele_maison>
+				<diagnostiques>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>N</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>134400</prix>
+			</prestation>
+		</annonce>
+		<annonce id="74655461">
+					<reference>160721-105241</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Tr&#232;s beau terrain de 403 m&#178;</texte>
+			<date_saisie>21/07/2016</date_saisie>
+			<date_integration>21/07/2016 10:53:24</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier Saint sauveur d'aunis</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/74655461/photos/1.jpg?20160721105241</photo>
+				<photo>http://photos.ubiflow.net/170960/74655461/photos/2.jpg?20160721105241</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<largeur_terrain>18.5</largeur_terrain>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<exposition>traversant est-ouest</exposition>
+				<code_insee >17396</code_insee>
+				<pays>France</pays>
+				<code_postal>17540</code_postal>
+				<departement>17</departement>
+				<ville_insee>17396</ville_insee>
+				<ville>Saint-Sauveur-d'Aunis</ville>
+				<prix_terrain>43700</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_valeur_conso>50</dpe_valeur_conso>
+					<dpe_valeur_ges>50</dpe_valeur_ges>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>137200</prix>
+				<prix_maison_seule>93500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="74655377">
+					<reference>160721-105107</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+Tr&#232;s beau terrain de 403 m&#178;</texte>
+			<date_saisie>21/07/2016</date_saisie>
+			<date_integration>21/07/2016 10:51:52</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier Saint sauveur d'aunis</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/74655377/photos/1.jpg?20160721105107</photo>
+				<photo>http://photos.ubiflow.net/170960/74655377/photos/2.jpg?20160721105107</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<largeur_terrain>18.5</largeur_terrain>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<exposition>traversant est-ouest</exposition>
+				<code_insee >17396</code_insee>
+				<pays>France</pays>
+				<code_postal>17540</code_postal>
+				<departement>17</departement>
+				<ville_insee>17396</ville_insee>
+				<ville>Saint-Sauveur-d'Aunis</ville>
+				<prix_terrain>43700</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_valeur_conso>50</dpe_valeur_conso>
+					<dpe_valeur_ges>50</dpe_valeur_ges>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>126700</prix>
+				<prix_maison_seule>83000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="74651156">
+					<reference>160721-095907</reference>
+			<texte>Cette maison en L de 95 m&#178; saura vous s&#233;duire avec son grand espace de vie de 45 m&#178;, ses 3 chambres avec emplacements pour placards, sa salle de bains avec douche italienne et vasque. Un cellier et un garage compl&#232;tent cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant.
+Terrain de 273 m&#178; expos&#233; plein Sud dans une commune avec tous commerces.</texte>
+			<date_saisie>21/07/2016</date_saisie>
+			<date_integration>21/07/2016 09:59:49</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/74651156/photos/1.jpg?20160721095907</photo>
+				<photo>http://photos.ubiflow.net/170960/74651156/photos/2.jpg?20160721095907</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<largeur_terrain>12</largeur_terrain>
+				<surface_sejour>45</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<exposition>sud</exposition>
+				<code_insee >17003</code_insee>
+				<pays>France</pays>
+				<code_postal>17290</code_postal>
+				<departement>17</departement>
+				<ville_insee>17003</ville_insee>
+				<ville>Aigrefeuille-d'Aunis</ville>
+				<lotissement>O</lotissement>
+				<prix_terrain>43018</prix_terrain>
+				<modele_maison>ONYX 95</modele_maison>
+				<diagnostiques>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_valeur_conso>50</dpe_valeur_conso>
+					<dpe_valeur_ges>50</dpe_valeur_ges>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>168018</prix>
+				<prix_maison_seule>125000</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="74650715">
+					<reference>160721-095804</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Terrain de 273 m&#178; expos&#233; plein Sud dans une commune avec tous commerces.</texte>
+			<date_saisie>21/07/2016</date_saisie>
+			<date_integration>21/07/2016 09:58:42</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/74650715/photos/1.jpg?20160721095804</photo>
+				<photo>http://photos.ubiflow.net/170960/74650715/photos/2.jpg?20160721095804</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<viabilise>O</viabilise>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<largeur_terrain>12</largeur_terrain>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<exposition>sud</exposition>
+				<code_insee >17003</code_insee>
+				<pays>France</pays>
+				<code_postal>17290</code_postal>
+				<departement>17</departement>
+				<ville_insee>17003</ville_insee>
+				<ville>Aigrefeuille-d'Aunis</ville>
+				<lotissement>O</lotissement>
+				<prix_terrain>43018</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_valeur_conso>50</dpe_valeur_conso>
+					<dpe_valeur_ges>50</dpe_valeur_ges>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>136518</prix>
+				<prix_maison_seule>93500</prix_maison_seule>
+			</prestation>
+		</annonce>
+		<annonce id="67610095">
+					<reference>160520-172723</reference>
+			<texte>Maison de 79 m&#178;, 3 chambres, avec un agr&#233;able espace de vie traversant de 38 m&#178;, une salle de bains avec vasque et douche italienne et un garage de 15 m&#178;.
+Beau terrain de 368 m&#178; dans commune avec commerces &#224; 10 minutes de La Rochelle</texte>
+			<date_saisie>20/05/2016</date_saisie>
+			<date_integration>20/05/2016 17:30:04</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/67610095/photos/1.jpg?20160520172723</photo>
+				<photo>http://photos.ubiflow.net/170960/67610095/photos/2.jpg?20160520172723</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>79</surface_habitable>
+				<surface_utile>79</surface_utile>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<code_insee >17193</code_insee>
+				<pays>France</pays>
+				<code_postal>17220</code_postal>
+				<departement>17</departement>
+				<ville_insee>17193</ville_insee>
+				<ville>La Jarne</ville>
+				<surface_terrain>368</surface_terrain>
+				<prix_terrain>104900</prix_terrain>
+				<modele_maison>Opale 80</modele_maison>
+				<diagnostiques>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>192700</prix>
+			</prestation>
+		</annonce>
+		<annonce id="67608640">
+					<reference>160520-170447</reference>
+			<texte>Gr&#226;ce &#224; son architecture cette maison de 95 vous permet de profiter au maximum de des possibilit&#233;s de votre terrain, de plus la partie jour est bien dissoci&#233;e de la partie nuit. Cette maison poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 43 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une 2 grandes baies vitr&#233;es. C&#244;t&#233; nuit vous aurez 3 chambres avec emplacements pour les placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un cellier, attenant au garage de 17 m&#178;, vient compl&#233;ter cet ensemble. Le chauffage sera assur&#233; par une pompe &#224; chaleur avec plancher chauffant
+Tr&#232;s beau terrain de 397 m&#178; expos&#233; plein Sud &#224; 15 minutes de La Rochelle</texte>
+			<date_saisie>20/05/2016</date_saisie>
+			<date_integration>20/05/2016 17:05:17</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/67608640/photos/1.jpg?20160520170447</photo>
+				<photo>http://photos.ubiflow.net/170960/67608640/photos/2.jpg?20160520170447</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>95</surface_habitable>
+				<surface_utile>95</surface_utile>
+				<longueur_terrain>26</longueur_terrain>
+				<largeur_terrain>15</largeur_terrain>
+				<surface_sejour>43</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<nombre_niveaux>1</nombre_niveaux>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<code_insee >17208</code_insee>
+				<pays>France</pays>
+				<code_postal>17230</code_postal>
+				<departement>17</departement>
+				<ville_insee>17208</ville_insee>
+				<ville>Long&#232;ves</ville>
+				<prix_terrain>63300</prix_terrain>
+				<modele_maison>Saphir 95</modele_maison>
+				<diagnostiques>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>189300</prix>
+			</prestation>
+		</annonce>
+		<annonce id="67608538">
+					<reference>160520-170225</reference>
+			<texte>Cette maison de 83 m&#178; poss&#232;de un agr&#233;able espace de vie avec cuisine ouverte de 40 m&#178;, tr&#232;s lumineux car ouvrant sur le jardin avec une large baie vitr&#233;e. C&#244;t&#233; nuit vous aurez 3 chambres avec possibilit&#233; de placards, une belle salle d'eau avec douche italienne, vasque et des WC s&#233;par&#233;s. Un garage traversant de 21 m&#178; vient compl&#233;ter cet ensemble.
+Tr&#232;s beau terrain de 397 m&#178; expos&#233; plein Sud &#224; 15 minutes de La Rochelle</texte>
+			<date_saisie>20/05/2016</date_saisie>
+			<date_integration>20/05/2016 17:02:49</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/67608538/photos/1.jpg?20160520170225</photo>
+				<photo>http://photos.ubiflow.net/170960/67608538/photos/2.jpg?20160520170225</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>83</surface_habitable>
+				<surface_utile>83</surface_utile>
+				<longueur_terrain>26</longueur_terrain>
+				<largeur_terrain>15</largeur_terrain>
+				<surface_sejour>40</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<code_insee >17208</code_insee>
+				<pays>France</pays>
+				<code_postal>17230</code_postal>
+				<departement>17</departement>
+				<ville_insee>17208</ville_insee>
+				<ville>Long&#232;ves</ville>
+				<prix_terrain>63300</prix_terrain>
+				<modele_maison>Cristal</modele_maison>
+				<diagnostiques>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>156800</prix>
+			</prestation>
+		</annonce>
+		<annonce id="67608532">
+					<reference>160520-170139</reference>
+			<texte>Maison de 69 m&#178; dot&#233;e d'un bel espace de vie traversant de 38 m&#178; , 2 chambres, une salle de bains avec vasque et douche italienne, wc s&#233;par&#233; et garage.
+Tr&#232;s beau terrain de 397 m&#178; expos&#233; plein Sud &#224; 15 minutes de La Rochelle</texte>
+			<date_saisie>20/05/2016</date_saisie>
+			<date_integration>20/05/2016 17:02:06</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/67608532/photos/1.jpg?20160520170139</photo>
+				<photo>http://photos.ubiflow.net/170960/67608532/photos/2.jpg?20160520170139</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<surface_habitable>69</surface_habitable>
+				<surface_utile>69</surface_utile>
+				<longueur_terrain>26</longueur_terrain>
+				<largeur_terrain>15</largeur_terrain>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>2</nombre_de_chambres>
+				<nb_pieces_logement>3</nb_pieces_logement>
+				<code_insee >17208</code_insee>
+				<pays>France</pays>
+				<code_postal>17230</code_postal>
+				<departement>17</departement>
+				<ville_insee>17208</ville_insee>
+				<ville>Long&#232;ves</ville>
+				<prix_terrain>63300</prix_terrain>
+				<modele_maison>Opale 70</modele_maison>
+				<diagnostiques>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>146300</prix>
+			</prestation>
+		</annonce>
+		<annonce id="67607887">
+					<reference>160520-164413</reference>
+			<texte>Maison de 79 m&#178;, 3 chambres, avec un agr&#233;able espace de vie traversant de 38 m&#178;, une salle de bains avec vasque et douche italienne et un garage de 15 m&#178;.
+Beau terrain dans commune avec nombreux commerces &#224; 10 minutes de La Rochelle.</texte>
+			<date_saisie>20/05/2016</date_saisie>
+			<date_integration>20/05/2016 16:46:38</date_integration>
+			<contact_a_afficher>MAISONS ACCO</contact_a_afficher>
+			<email_a_afficher>contact@acco17.com</email_a_afficher>
+			<telephone_a_afficher>05 46 01 50 50</telephone_a_afficher>
+			<titre>Bien immobilier</titre>
+			<photos>
+				<photo>http://photos.ubiflow.net/170960/67607887/photos/1.jpg?20160520164414</photo>
+				<photo>http://photos.ubiflow.net/170960/67607887/photos/2.jpg?20160520164414</photo>
+			</photos>
+			<bien>
+				<code_type>5200</code_type>
+				<libelle_type>Programme Terrain + Maison</libelle_type>
+				<avec_stationnement>O</avec_stationnement>
+				<garage>O</garage>
+				<constructible>O</constructible>
+				<bien_avec_chauffage>O</bien_avec_chauffage>
+				<surface_habitable>79</surface_habitable>
+				<surface_utile>79</surface_utile>
+				<longueur_terrain>24</longueur_terrain>
+				<largeur_terrain>13</largeur_terrain>
+				<surface_sejour>38</surface_sejour>
+				<nombre_de_chambres>3</nombre_de_chambres>
+				<nb_pieces_logement>4</nb_pieces_logement>
+				<chauffage_energie>pompe &#224; chaleur</chauffage_energie>
+				<code_insee >17391</code_insee>
+				<pays>France</pays>
+				<code_postal>17220</code_postal>
+				<departement>17</departement>
+				<ville_insee>17391</ville_insee>
+				<ville>Saint-Rogatien</ville>
+				<surface_terrain>312</surface_terrain>
+				<prix_terrain>85363</prix_terrain>
+				<modele_maison>Opale 80</modele_maison>
+				<diagnostiques>
+					<soumis_dpe>O</soumis_dpe>
+					<dpe_vierge>N</dpe_vierge>
+					<dpe_etiquette_conso>A</dpe_etiquette_conso>
+					<dpe_etiquette_ges>A</dpe_etiquette_ges>
+				</diagnostiques>
+				<labels_qualite>
+					<label_hqe>N</label_hqe>
+					<label_thpe>N</label_thpe>
+					<label_he>N</label_he>
+					<label_promotelec>N</label_promotelec>
+					<label_he_effinergie>N</label_he_effinergie>
+					<label_nf_maison_individuelle>N</label_nf_maison_individuelle>
+					<label_qualibat>N</label_qualibat>
+					<label_ce>N</label_ce>
+					<label_acermi>N</label_acermi>
+					<label_maison_de_qualite>N</label_maison_de_qualite>
+					<label_maison_de_confiance>N</label_maison_de_confiance>
+					<rt_2012>O</rt_2012>
+				</labels_qualite>
+			</bien>
+			<prestation>
+				<type>H</type>
+				<prix>173163</prix>
+			</prestation>
+		</annonce>
+	</annonces>
+</annonceur>
